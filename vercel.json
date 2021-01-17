@@ -2,7 +2,7 @@
     "routes":[
         {
             "src": "/",
-            "dest": "api.js"
+            "dest": "api/topic.js"
         },
         {
             "src": "/topic",
